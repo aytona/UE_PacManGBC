@@ -11,7 +11,7 @@ Pacman game created in Unreal Engine. Just an example project done for school
 1. Launch project through Unreal Engine or double click 'PacManGBC.uproject'.
 
 ## Contributions
-This project is mostly for school so I don't expect anyone to contribute anything to this. But I will still look at any contributions (bit or small) to the project through Pull Requests.
+This project is mostly for school so I don't expect anyone to contribute anything to this. But I will still look at any contributions (big or small) to the project through Pull Requests.
 
 There is no coding standards as long as its readable or commented (preferably both).
 
